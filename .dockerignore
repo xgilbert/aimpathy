@@ -1,0 +1,10 @@
+.git
+.github
+.cache
+
+.vscode
+
+aimpathy/aimpathy.egg-info
+aimpathy/build
+aimpathy/dist
+aimpathy/aimpathy/dev
